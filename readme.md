@@ -25,4 +25,4 @@
 
 [Mi portafolio] (https://luisdavid343.github.io)
 
-!(img/gato2.png)
+![gato](assets/images/gato2.png)
